@@ -128,7 +128,7 @@ TARGET_USES_LOGD    := true
 TWRP_INCLUDE_LOGCAT := true
 
 # TWRP specific build flags
-TW_DEVICE_VERSION := AshutoshCodeSpace
+TW_DEVICE_VERSION := KrrishJaat
 TW_INCLUDE_REPACKTOOLS := true
 TW_INCLUDE_LIBRESETPROP := true
 TW_INCLUDE_RESETPROP := true
